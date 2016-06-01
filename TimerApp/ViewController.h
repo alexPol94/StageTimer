@@ -4,7 +4,7 @@
 //
 //  Created by Alexandr Polukhin on 22.05.16.
 //  Copyright © 2016 Alexandr Polukhin. All rights reserved.
-// Hello
+// 
 
 #import <Cocoa/Cocoa.h>
 #import "MyTableViewDataSource.h"
